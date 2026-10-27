@@ -1,0 +1,16 @@
+[
+  {"query": "Who has to sign off on a business trip to Japan?", "relevant": ["kb-01"]},
+  {"query": "Is travel insurance included?", "relevant": ["kb-01"]},
+  {"query": "Should I take the train or fly for a short domestic journey?", "relevant": ["kb-02"]},
+  {"query": "Can I expense alcohol at a client dinner?", "relevant": ["kb-03"]},
+  {"query": "How quickly is a large expense claim of 1,500 USD paid?", "relevant": ["kb-03"]},
+  {"query": "How many days off do part-time staff get?", "relevant": ["kb-04"]},
+  {"query": "Who do I tell if I can't come in because I'm ill?", "relevant": ["kb-05"]},
+  {"query": "What hours must I be online when working remotely?", "relevant": ["kb-06"]},
+  {"query": "Is it OK to save work files on my personal Dropbox?", "relevant": ["kb-07"]},
+  {"query": "What happens to my laptop when I leave the company?", "relevant": ["kb-08"]},
+  {"query": "Do I need approval to install software?", "relevant": ["kb-08"]},
+  {"query": "How many study days do I get?", "relevant": ["kb-09"]},
+  {"query": "What is the bonus scheme?", "relevant": []},
+  {"query": "Can I bring my dog to work?", "relevant": []}
+]
